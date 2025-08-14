@@ -1,5 +1,5 @@
 <!-- Efeito de digitação -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F720&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Saboia;Desenvolvedor+Full-Stack+em+forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+Inova%C3%A7%C3%A3o;Sempre+aprendendo+novas+habilidades)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F720&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Saboia)](https://git.io/typing-svg)
 
 # 👋 Olá, eu sou Gabriel Saboia!
 
